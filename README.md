@@ -8,7 +8,7 @@ My motivation wasn't very complex. I found myself unable to hold down a keyboard
 
 ## Changelog
 
-### [mk1]
+### [mk1](https://github.com/wyrddesign/push-to-talk-pedal/tree/mk1)
 - Rough prototype.
 
 ## Assembly
