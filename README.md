@@ -8,7 +8,7 @@ My motivation wasn't very complex. I found myself unable to hold down a keyboard
 
 ## Changelog
 
-### Mk 1
+### [mk1]
 - Rough prototype.
 
 ## Assembly
